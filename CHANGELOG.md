@@ -1,6 +1,14 @@
 # [vNext]
 
 ## Improvements:
+
+## Bug fixes:
+
+*Contributors of this release (in alphabetical order):*
+
+# v3.3.4 - 2026-03-23
+
+## Improvements:
 * Improve the command line dotnet new project templates to support .NET 10, xUnit v3 and support of implicit usings when appropriate. Removed the option to include FluentAssertions from the template. (#1061)
 
 ## Bug fixes:
